@@ -1,0 +1,26 @@
+{
+  "clienttoken": "OTYwMTg1MTM2NzUyNzY2OTk3.YkmwFw.O-n2grt95oagjqjSpjLf59bu6U0",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Chill Lounge",
+
+  "clientid": "960185136752766997",
+
+  "TestingServerID": "959761681829990440",
+
+  "clientavatar":"https://i.ibb.co/qJqr2rQ/61x8-Mu-GQSLL-SS500.jpg",
+
+  "prefix": ",",
+
+  "developerID": ["819495148412207147"],
+
+  "colorthemecode":"#FF5733",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down"],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}
+
+
